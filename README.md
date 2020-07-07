@@ -2,11 +2,9 @@
 
 Only supports Linux.
 
-# Install 
-
 You must have git and zsh installed.
 
-Installing ## WILL remove your old .zshrc! Move it if you want to keep it!
+Installing WILL remove your old .zshrc! Move it if you want to keep it!
 
 # to install:
 `curl https://raw.githubusercontent.com/maximumpower55/aurthfiles/master/bin/setup | zsh`
